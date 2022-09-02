@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=shurshilov&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shurshilov&langs_count=5&theme=tokyonight)]()
+### **Odoo** Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shurshilov&repo=odoo&theme=dark&hide_border=true&bg_color=444444)](https://github.com/shurshilov/odoo)
 
 <!--
 **shurshilov/shurshilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
